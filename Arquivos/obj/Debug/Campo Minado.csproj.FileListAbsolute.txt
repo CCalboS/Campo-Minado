@@ -1,0 +1,10 @@
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\bin\Debug\Campo Minado.exe.config
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\bin\Debug\Campo Minado.exe
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\bin\Debug\Campo Minado.pdb
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\obj\Debug\Campo Minado.csproj.AssemblyReference.cache
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\obj\Debug\Campo_Minado.Form1.resources
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\obj\Debug\Campo_Minado.Properties.Resources.resources
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\obj\Debug\Campo Minado.csproj.GenerateResource.cache
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\obj\Debug\Campo Minado.csproj.CoreCompileInputs.cache
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\obj\Debug\Campo Minado.exe
+D:\Meus Documentos\Desktop\Área de Trabalho\Programação\Campo Minado\obj\Debug\Campo Minado.pdb
